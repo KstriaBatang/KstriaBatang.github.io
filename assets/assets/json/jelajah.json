@@ -1,0 +1,77 @@
+{
+    "responseCode": "OK",
+    "jelajahContent": [
+        {
+            "name": "Daud",
+            "price": 2500000,
+            "imageUrl": "images/jelajah_1.png",
+            "title": "Probolingo, Bromo dan Budayanya",
+            "subTitle": "Jelajahi Gunung Bromo, Air terjun dan rafting",
+            "description": "Rafting di sekitar gunung bromo, ke pantai bentar yang indah, naik perahu ke pulau"
+        },
+        {
+            "name": "Tony",
+            "price": 6000000,
+            "imageUrl": "images/jelajah_2.png",
+            "title": "Natal di Solo",
+            "subTitle": "Rayakan Natal di kota penuh berkat",
+            "description": "Natal di kota penuh dengan hiasan natal seperti di luar negeri, nikmati berkat Tuhan yang indah."
+        },
+        {
+            "name": "Meylisa",
+            "price": 3500000,
+            "imageUrl": "images/jelajah_3.png",
+            "title": "Tahun Baru di Canggu",
+            "subTitle": "Tahun baru di wilayah digital nomad",
+            "description": "Pantai canggu dan komunitas digital nomadnya, dengan cafe astetic."
+        },
+        {
+            "name": "Manana",
+            "price": 1500000,
+            "imageUrl": "images/jelajah_4.png",
+            "title": "Surga di Gili Trawangan",
+            "subTitle": "Surga di Gili Trawangan",
+            "description": "Surga dunia, pantai yang indah, snorkling dengan batu karang yang masih terjaga. Gili woth it!"
+        },
+        {
+            "name": "Toni",
+            "price": 3500000,
+            "imageUrl": "images/jelajah_5.png",
+            "title": "Party di Bali Sepanjang Malam",
+            "subTitle": "Seminyak is in the house!",
+            "description": "Kita akan tinggal di seminyak dimana dekat dengan dunia malam di kota dan pantai indah"
+        },
+        {
+            "name": "Mayasye",
+            "price": 2000000,
+            "imageUrl": "images/jelajah_6.png",
+            "title": "Wisata Rohani Solo",
+            "subTitle": "Ingin lebih dekat degan Tuhan Yesus? ",
+            "description": "Di Gereja Keluarga Allah Solo ada ibadah 24 jam, miracle night service, pusat kebangunan rohani dll!"
+        },
+        {
+            "name": "Stefani",
+            "price": 2000000,
+            "imageUrl": "images/jelajah_7.png",
+            "title": "Malang Taman Safari dan Taman Hiburan",
+            "subTitle": "Rasakan dekat dengan binatang liar dari dekat! ",
+            "description": "Rasakan dekat dengan binatang liar dari dekat!"
+        },
+        {
+            "name": "Tatiana Lisdasari",
+            "price": 4500000,
+            "imageUrl": "images/jelajah_8.png",
+            "title": "Ke Bali Bersama Remote Worker",
+            "subTitle": "Rasakan travel di bali tidak seperti turis!",
+            "description": "Ubud yang kaya akan budaya dan monkey forestnya. Ditambah dengan ATV dan rafting dll."
+        },
+        {
+            "name": "Angel",
+            "price": 4500000,
+            "imageUrl": "images/jelajah_9.png",
+            "title": "Yogyakarta dengan Seniman",
+            "subTitle": "Borobudur and Prambanan is boring.",
+            "description": "Kita akan melihat banyak art galery dan kegiatan seni di Yogyakarta."
+        }
+    ]
+}
