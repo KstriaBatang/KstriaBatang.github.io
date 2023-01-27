@@ -26,7 +26,7 @@ const RESOURCES = {
 "assets/assets/images/jelajah_7.png": "8833941842f58b28980a7da45efac45c",
 "assets/assets/images/jelajah_8.png": "d78f0689c59031cd45030e93c6158f3d",
 "assets/assets/images/jelajah_9.png": "d01eaf5d25d919ff422ec211da46325e",
-"assets/assets/json/jelajah.json": "15429180bdab5d8a8258ed9b2ce2ab9b",
+"assets/assets/json/jelajah.json": "9492f79cabfe292fd12aca5a868bed3a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "76cbfa402415333b92982b904f8d5c05",
@@ -42,9 +42,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "02f5ef09a249003661da54bcee504164",
-"/": "02f5ef09a249003661da54bcee504164",
-"main.dart.js": "efdf1ecc42eed051080cf04accbd9025",
+"index.html": "442a0e890e4e4f478d28b547b3a1d801",
+"/": "442a0e890e4e4f478d28b547b3a1d801",
+"main.dart.js": "62e161fa72ccb2a424d9b3e9f093999e",
 "manifest.json": "e4678f2dcbeb8587a3914471f8d12c56",
 "version.json": "4668a00638a280eb5ba66c165cb1cc6c"
 };

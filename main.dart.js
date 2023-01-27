@@ -72897,7 +72897,7 @@ A.xB.prototype={
 gjE(){return A.a([this.a],t.f)}}
 A.xA.prototype={}
 A.wv.prototype={
-ap(){var s="images/carousel_2.png",r=$.ab,q=$.aQ()
+ap(){var s="assets/images/carousel_2.png",r=$.ab,q=$.aQ()
 return new A.NU(new A.Wd(new A.aZ(new A.ac(r,t.wC),t.Fe)),new A.n4(B.dv,q),new A.n4(B.dv,q),new A.a2o(),A.a([A.kB(s),A.kB(s),A.kB(s)],t.Q),B.k)}}
 A.NU.prototype={
 M(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0="Ikut Trip",a1="Buat Trip",a2="Cara Kerja",a3=t.w,a4=a6.a0(a3).f.a.b,a5=a6.a0(a3).f.a.a
@@ -72909,7 +72909,7 @@ s=a4*0.05
 r=a5*0.1
 q=$.al0()
 p=t.Q
-s=A.fJ(A.a([a3,B.L_,A.fJ(A.a([A.aM(A.fJ(A.a([A.e0(!1,!0,A.aM(A.nR(A.qr(a0,2,q,B.c5),a,a),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adJ(),a,a,a,a),A.e0(!1,!0,A.aM(A.qr(a1,2,q,a),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adK(),a,a,a,a),A.e0(!1,!0,A.aM(A.qr(a2,2,q,a),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adL(),a,a,a,a),A.e0(!1,!0,A.aM(A.qr("Sign Up",2,q.cG(B.b2),B.c5),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adS(),a,a,a,a),A.e0(!1,!0,A.e0(!1,!0,A.aM(A.qr("Login",2,$.al0().cG(B.b2),B.c5),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adT(b,a6),a,a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adU(b,a6),a,a,a,a)],p),B.ac,B.w),a,a5*0.5),A.aM(A.fJ(A.a([A.kB("icons/main_logo.png"),A.kB("icons/wa_icon.png")],p),B.I9,B.w),a,a5*0.325)],p),B.ac,B.w)],p),B.ah,B.w)
+s=A.fJ(A.a([a3,B.L_,A.fJ(A.a([A.aM(A.fJ(A.a([A.e0(!1,!0,A.aM(A.nR(A.qr(a0,2,q,B.c5),a,a),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adJ(),a,a,a,a),A.e0(!1,!0,A.aM(A.qr(a1,2,q,a),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adK(),a,a,a,a),A.e0(!1,!0,A.aM(A.qr(a2,2,q,a),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adL(),a,a,a,a),A.e0(!1,!0,A.aM(A.qr("Sign Up",2,q.cG(B.b2),B.c5),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adS(),a,a,a,a),A.e0(!1,!0,A.e0(!1,!0,A.aM(A.qr("Login",2,$.al0().cG(B.b2),B.c5),s,r),a,!0,a,a,a,a,a,a,a,a,a,new A.adT(b,a6),a,a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adU(b,a6),a,a,a,a)],p),B.ac,B.w),a,a5*0.5),A.aM(A.fJ(A.a([A.kB("assets/icons/main_logo.png"),A.kB("assets/icons/wa_icon.png")],p),B.I9,B.w),a,a5*0.325)],p),B.ac,B.w)],p),B.ah,B.w)
 q=a4*0.2
 a3=a5*0.4
 o=A.aM(A.qr("TRIP BARENG TEMEN\nBARU LEBIH SERU",2,$.ao7(),a),q,a3)
@@ -72921,7 +72921,7 @@ k=A.dZ(a,new A.fg(B.ff,a,a,A.qr("Travel Bersama dan buat pengalaman yang mengesa
 l=A.aM(a,a4*0.03,a)
 j=a5*0.15
 i=A.EP(a,a,new A.db(B.b2,t.Il),a,a,a,a,a,a,a,a,a,a,new A.db(new A.cX(A.ey(60),B.u),t.fj),a,a,a,a,a,a)
-i=A.dZ(a,new A.cM(B.Dp,A.eb(A.a([o,m,k,l,A.aM(A.alD(A.bM("Cari Trip",a,a,a,a,a,a,a,$.ao4(),a,a,a),new A.adV(),i),a4*0.08,j)],p),B.ax,B.ah,B.w),a),B.r,a,a,B.xl,a,a4*0.585,a,a,a,a,a5)
+i=A.dZ(a,new A.cM(B.Dp,A.eb(A.a([o,m,k,l,A.aM(A.alD(A.bM("Cari Trip",a,a,a,a,a,a,a,$.ao4(),a,a,a),new A.adV(),i),a4*0.08,j)],p),B.ax,B.ah,B.w),a),B.r,a,a,B.xk,a,a4*0.585,a,a,a,a,a5)
 l=a4*0.1
 k=A.aM(a,l,a)
 m=A.alO(B.Ea,new A.adW(b),a)
@@ -72940,7 +72940,7 @@ c=$.eT()
 l=A.aM(A.eb(A.a([A.aM(A.eb(A.a([A.bM("Travel",a,a,a,a,a,a,a,c,a,a,a),A.e0(!1,!0,A.bM(a0,a,a,a,a,a,a,a,c.cG(A.an(153,0,0,0)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adZ(),a,a,a,a),A.e0(!1,!0,A.bM(a1,a,a,a,a,a,a,a,$.eT().cG(A.an(153,0,0,0)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adM(),a,a,a,a),A.e0(!1,!0,A.bM(a2,a,a,a,a,a,a,a,$.eT().cG(A.an(153,0,0,0)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adN(),a,a,a,a)],p),B.ax,B.ac,B.w),q,a),A.aM(A.eb(A.a([A.e0(!1,!0,A.bM("Sign Up",a,a,a,a,a,a,a,$.eT().cG(A.an(153,244,67,54)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adO(),a,a,a,a),A.aM(a,n,a),A.e0(!1,!0,A.bM("Login",a,a,a,a,a,a,a,$.eT().cG(A.an(153,244,67,54)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adP(),a,a,a,a)],p),B.ax,B.ah,B.w),l,a)],p),B.ax,B.ac,B.w),e,j)
 q=A.aM(a,a,a5*0.05)
 c=$.eT()
-return new A.zo(new A.Lh(B.aE,A.eb(A.a([new A.cM(B.Do,s,a),i,k,new A.cM(B.Dj,o,a),m,new A.cM(B.mW,h,a),g,new A.cM(B.mW,a3,a),f,A.dZ(a,new A.cM(B.Dd,A.fJ(A.a([d,r,l,q,A.aM(A.eb(A.a([A.bM("Company",a,a,a,a,a,a,a,c,a,a,a),A.aM(a,n,a),A.e0(!1,!0,A.bM("About Us",a,a,a,a,a,a,a,c.cG(A.an(153,0,0,0)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adQ(),a,a,a,a),A.aM(a,n,a),A.e0(!1,!0,A.bM("Contact Us",a,a,a,a,a,a,a,$.eT().cG(A.an(153,0,0,0)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adR(),a,a,a,a)],p),B.ax,B.ah,B.w),e,j)],p),B.ah,B.w),a),B.r,a,a,B.xk,a,a4*0.6,a,a,a,a,a5)],p),B.ax,B.ah,B.w),a),B.j,a)}}
+return new A.zo(new A.Lh(B.aE,A.eb(A.a([new A.cM(B.Do,s,a),i,k,new A.cM(B.Dj,o,a),m,new A.cM(B.mW,h,a),g,new A.cM(B.mW,a3,a),f,A.dZ(a,new A.cM(B.Dd,A.fJ(A.a([d,r,l,q,A.aM(A.eb(A.a([A.bM("Company",a,a,a,a,a,a,a,c,a,a,a),A.aM(a,n,a),A.e0(!1,!0,A.bM("About Us",a,a,a,a,a,a,a,c.cG(A.an(153,0,0,0)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adQ(),a,a,a,a),A.aM(a,n,a),A.e0(!1,!0,A.bM("Contact Us",a,a,a,a,a,a,a,$.eT().cG(A.an(153,0,0,0)),a,a,a),a,!0,a,a,a,a,a,a,a,a,a,new A.adR(),a,a,a,a)],p),B.ax,B.ah,B.w),e,j)],p),B.ah,B.w),a),B.r,a,a,B.xl,a,a4*0.6,a,a,a,a,a5)],p),B.ax,B.ah,B.w),a),B.j,a)}}
 A.adJ.prototype={
 $0(){},
 $S:0}
@@ -76428,15 +76428,15 @@ B.lI=new A.aU(1/0,1/0,1/0,1/0)
 B.xj=new A.aU(0,1/0,48,48)
 B.bI=new A.aU(0,1/0,0,1/0)
 B.lJ=new A.aU(48,1/0,48,1/0)
-B.Br=new A.o(4291543536)
-B.ag=new A.vX(0,"rectangle")
-B.xk=new A.dy(B.Br,null,null,null,null,null,B.ag)
-B.wT=new A.lF("images/dashboard_image.jpg",null,null)
+B.wT=new A.lF("assets/images/dashboard_image.jpg",null,null)
 B.fl=new A.qw(2,"cover")
 B.bS=new A.om(3,"noRepeat")
 B.dT=new A.o8(1,"low")
 B.CL=new A.qV(B.wT,null,B.fl)
-B.xl=new A.dy(null,B.CL,null,null,null,null,B.ag)
+B.ag=new A.vX(0,"rectangle")
+B.xk=new A.dy(null,B.CL,null,null,null,null,B.ag)
+B.Br=new A.o(4291543536)
+B.xl=new A.dy(B.Br,null,null,null,null,null,B.ag)
 B.xm=new A.qw(1,"contain")
 B.lK=new A.qw(6,"scaleDown")
 B.ca=new A.vW(0,"tight")
